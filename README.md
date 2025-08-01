@@ -37,15 +37,25 @@ This project was developed as a part of a summer internship using Data Science a
 📂 Project Structure
 
 ├── main2.py                   # Streamlit app
+
 ├── model.pkl                  # Trained ML model (generated on first run)
+
 ├── Training.csv               # Training dataset for symptoms and prognosis
+
 ├── symtoms_df.csv             # Symptom database
+
 ├── precautions_df.csv         # Precaution suggestions per disease
+
 ├── description.csv            # Disease descriptions
+
 ├── medications.csv            # Medication info
+
 ├── diets.csv                  # Diet plans
+
 ├── workout_df.csv             # Workout suggestions
+
 ├── Doctor.csv                 # Doctor recommendation database
+
 └── requirements.txt           # Python dependencies
 
 ▶️ How to Run the Project Locally
