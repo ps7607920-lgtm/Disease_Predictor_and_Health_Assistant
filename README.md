@@ -16,6 +16,7 @@ Disease Predictor and Health Assistant is a machine learning-powered web applica
 
 This project was developed as a part of a summer internship using Data Science and Machine Learning techniques to support proactive health awareness.
 
+
 🔍 Features
 
 * Accepts multiple symptoms from users via a text input.
@@ -30,6 +31,7 @@ This project was developed as a part of a summer internship using Data Science a
    6. Beneficial workouts
    7. Nearby or specialized doctors
 
+
 🛠️ Tech Stack
 
 1. Frontend/UI: Streamlit
@@ -38,6 +40,7 @@ This project was developed as a part of a summer internship using Data Science a
 4. Data Handling: Pandas, NumPy
 5. Model Storage: Pickle
 6. Data Files: CSV-based health knowledgebase
+
 
 📂 Project Structure
 
@@ -63,6 +66,7 @@ This project was developed as a part of a summer internship using Data Science a
 
 └── requirements.txt           # Python dependencies
 
+
 ▶️ How to Run the Project Locally
 
 ✅ Prerequisites
@@ -87,14 +91,17 @@ Make sure you have Python 3.8+ and pip installed.
 
   5. Open the browser and navigate to http://localhost:8501 to use the app.
 
+
 🙏 Acknowledgment
 
 This project was developed as part of the Summer Internship conducted by GRAStech at Babu Banarasi Das University.
 Special thanks to our mentor Arpit Sir for his continuous guidance and support throughout the project.
 
+
 📌 Example Input
 
 skin_rash, itching, nodal_skin_eruptions
+
 
 🔗 License
 
