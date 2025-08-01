@@ -72,18 +72,18 @@ Make sure you have Python 3.8+ and pip installed.
 
   1. Clone the repository
 
-   git clone https://github.com/your-username/disease-predictor.git
-   cd disease-predictor
+        git clone https://github.com/your-username/disease-predictor.git
+        cd disease-predictor
 
   2. Install dependencies
 
-   pip install -r requirements.txt
+        pip install -r requirements.txt
    
   3. Ensure all CSV files are in the same directory as main2.py.
 
   4. Run the app
 
-   streamlit run main2.py
+        streamlit run main2.py
 
   5. Open the browser and navigate to http://localhost:8501 to use the app.
 
