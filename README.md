@@ -3,10 +3,15 @@
 Disease Predictor and Health Assistant is a machine learning-powered web application built using Python and Streamlit. It helps users identify possible diseases based on entered symptoms and provides them with useful health suggestions, including:
 
 📖 Disease Description
+
 🛡️ Precautions
+
 💊 Medications
+
 🥗 Diet Recommendations
+
 🏋️ Workout Suggestions
+
 👨‍⚕ Doctor Recommendations
 
 This project was developed as a part of a summer internship using Data Science and Machine Learning techniques to support proactive health awareness.
@@ -90,6 +95,7 @@ Special thanks to our mentor Arpit Sir for his continuous guidance and support t
 📌 Example Input
 
 skin_rash, itching, nodal_skin_eruptions
+
 🔗 License
 
 This project is open-source.
